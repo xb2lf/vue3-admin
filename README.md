@@ -26,4 +26,4 @@ pnpm run dev
 
 Contributing
 
-Contributions are welcome! Please feel free to submit issues or pull requests
+Contributions are welcome! Please feel free to submit issues or pull requests.
