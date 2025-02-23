@@ -1,5 +1,29 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 Admin
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A powerful and efficient admin management system built with modern web technologies.
+Features
+Permission Management: Menu and button - level access control to ensure data security.
+Product Management: Handle product categories, SPU (Standard Product Unit), and SKU (Stock Keeping Unit) with ease.
+Data Visualization: Use Echarts to present data on a large - screen display for better insights.
+Technologies Used
+Vue 3: Leveraging the latest features for high - performance and maintainable code.
+Vue Router: Enables seamless navigation between different views.
+Pinia: Simplifies state management across the application.
+Echarts: Provides various data visualization options.
+Installation
+Clone the repository:
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+git clone <https://github.com/xb2lf/vue3-admin>
+
+Navigate to the project directory:
+cd vue3-admin
+
+Install dependencies:
+pnpm install
+
+Start the development server:
+pnpm run dev
+
+Contributing
+
+Contributions are welcome! Please feel free to submit issues or pull requests.
